@@ -1,0 +1,9 @@
+for lapi1124:
+find states and assign states to counties in same format as air quality dataset
+
+drop:
+drop all columns in air quality dataset except for AQI ones
+drop all columns in income except for 2023
+
+merge: 
+drop all rows with country names that dont appear in both datasets
