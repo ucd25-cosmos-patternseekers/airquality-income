@@ -27,706 +27,700 @@
 25,Arizona,Santa Cruz,37,49416
 26,Arizona,Yavapai,43,55913
 27,Arizona,Yuma,48,46441
-28,Arkansas,Arkansas,44,63938
-29,Arkansas,Ashley,43,46686
-30,Arkansas,Clark,35,44397
-31,Arkansas,Crittenden,41,47271
-32,Arkansas,Garland,47,52506
-33,Arkansas,Jackson,44,49638
-34,California,Alameda,48,106657
-35,California,Amador,36,50020
-36,California,Butte,50,56847
-37,California,Calaveras,40,58425
-38,California,Colusa,55,58303
-39,California,Contra Costa,52,103218
-40,California,Del Norte,32,47141
-41,California,El Dorado,44,84533
-42,California,Fresno,64,52728
-43,California,Glenn,41,53013
-44,California,Humboldt,32,57264
-45,California,Imperial,61,47991
-46,California,Inyo,61,64246
-47,California,Kern,69,47350
-48,California,Kings,58,43994
-49,California,Lake,32,48198
-50,California,Los Angeles,67,78302
-51,California,Madera,52,46709
-52,California,Marin,34,180575
-53,California,Mariposa,47,65423
-54,California,Mendocino,53,59050
-55,California,Merced,51,46654
-56,California,Mono,24,70699
-57,California,Monterey,42,68943
-58,Colorado,Adams,51,58851
-59,Colorado,Alamosa,22,44666
-60,Colorado,Arapahoe,47,81414
-61,Colorado,Archuleta,35,58325
-62,Colorado,Boulder,50,100242
-63,Colorado,Chaffee,58,66503
-64,Colorado,Clear Creek,49,78739
-65,Colorado,Denver,54,116530
-66,Colorado,Douglas,49,102928
-67,Colorado,El Paso,47,65715
-68,Colorado,El Paso,47,46753
-69,Colorado,Fremont,12,43608
-70,Colorado,Garfield,54,71629
-71,Colorado,Gilpin,47,69394
-72,Colorado,Grand,46,73848
-73,Colorado,Gunnison,46,70391
-74,Colorado,Jackson,45,68367
-75,Colorado,Jackson,45,54702
-76,Colorado,Jefferson,49,85164
-77,Colorado,Jefferson,49,50131
-78,Colorado,La Plata,46,76558
-79,Colorado,Larimer,51,71359
-80,Colorado,Mesa,46,57653
-81,Colorado,Montezuma,44,53105
-82,Colorado,Park,50,61974
-83,Colorado,Pitkin,13,255839
-84,Colorado,Prowers,19,49097
-85,Colorado,Pueblo,43,48891
-86,Colorado,Rio Blanco,47,63017
-87,Colorado,Routt,13,131507
-88,Colorado,San Juan,9,55971
-89,Colorado,San Miguel,47,156403
-90,Connecticut,Fairfield,46,139006
-91,Connecticut,Hartford,43,75433
-92,Connecticut,Litchfield,38,82210
-93,Connecticut,Middlesex,43,80853
-94,Connecticut,New Haven,47,68387
-95,Connecticut,New London,41,69755
-96,Connecticut,Tolland,41,67916
-97,Connecticut,Windham,34,56773
-98,Delaware,Kent,46,52494
-99,Delaware,New Castle,52,70792
-100,Delaware,Sussex,47,68532
-101,Florida,Alachua,40,55872
-102,Florida,Baker,43,46794
-103,Florida,Bay,51,56070
-104,Florida,Brevard,43,60162
-105,Florida,Broward,52,70982
-106,Florida,Citrus,45,47178
-107,Florida,Collier,43,134527
-108,Florida,Columbia,47,45995
-109,Florida,Duval,52,58975
-110,Florida,Escambia,51,55416
-111,Florida,Flagler,35,63819
-112,Florida,Hamilton,46,37368
-113,Florida,Highlands,35,44177
-114,Florida,Hillsborough,51,63640
-115,Florida,Holmes,49,41258
-116,Florida,Indian River,34,105827
-117,Florida,Lake,37,55387
-118,Florida,Lee,35,65878
-119,Florida,Leon,47,57139
-120,Florida,Liberty,33,35661
-121,Florida,Manatee,35,64096
-122,Florida,Marion,45,46682
-123,Florida,Martin,41,114799
-124,Florida,Miami-Dade,48,75182
-125,Florida,Okaloosa,37,62236
-126,Florida,Orange,43,59767
-127,Florida,Osceola,36,47824
-128,Florida,Palm Beach,43,117322
-129,Florida,Pasco,39,56734
-130,Florida,Pinellas,47,71904
-131,Florida,Polk,42,44430
-132,Florida,Putnam,17,41712
-133,Florida,Santa Rosa,47,59385
-134,Florida,Sarasota,47,85157
-135,Florida,Seminole,40,62804
-136,Florida,St. Lucie,35,54842
-137,Florida,Volusia,44,55824
-138,Florida,Wakulla,39,52124
-139,Georgia,Bibb,53,48455
-140,Georgia,Charlton,27,32717
-141,Georgia,Chatham,48,59376
-142,Georgia,Chattooga,38,38269
-143,Georgia,Clarke,52,43899
-144,Georgia,Clayton,51,34871
-145,Georgia,Cobb,43,75176
-146,Georgia,Coffee,41,40334
-147,Georgia,Columbia,36,61147
-148,Georgia,Dawson,38,63599
-149,Georgia,DeKalb,53,67811
-150,Georgia,Dougherty,51,47803
-151,Georgia,Douglas,41,45636
-152,Georgia,Floyd,46,46727
-153,Georgia,Fulton,53,106131
-154,Georgia,Glynn,43,62751
-155,Georgia,Gwinnett,50,54331
-156,Georgia,Hall,52,60036
-157,Georgia,Henry,44,49576
-158,Georgia,Houston,49,50250
-159,Georgia,Lowndes,48,45758
-160,Georgia,Murray,41,38846
-161,Georgia,Muscogee,52,51442
-162,Georgia,Pike,39,52786
-163,Georgia,Richmond,51,45441
-164,Georgia,Rockdale,40,43568
-165,Georgia,Sumter,38,45394
-166,Georgia,Walker,53,44195
-167,Hawaii,Hawaii,23,52866
-168,Hawaii,Honolulu,31,69893
-169,Idaho,Ada,44,72588
-170,Idaho,Bannock,41,50084
-171,Idaho,Benewah,48,45633
-172,Idaho,Blaine,19,187239
-173,Idaho,Boise,39,54614
-174,Idaho,Bonner,34,55464
-175,Idaho,Bonneville,25,60032
-176,Idaho,Butte,44,51958
-177,Idaho,Canyon,34,47903
-178,Idaho,Custer,8,52420
-179,Idaho,Franklin,24,45872
-180,Idaho,Idaho,44,45574
-181,Idaho,Kootenai,32,63893
-182,Idaho,Latah,22,54794
-183,Idaho,Lemhi,32,53841
-184,Idaho,Nez Perce,36,56586
-185,Idaho,Shoshone,47,45440
-186,Idaho,Twin Falls,25,52087
-187,Idaho,Valley,36,66382
-188,Illinois,Adams,43,59776
-189,Illinois,Champaign,48,58838
-190,Illinois,Clark,36,53733
-191,Illinois,Cook,57,77937
-192,Illinois,DuPage,53,95811
-193,Illinois,Effingham,44,67028
-194,Illinois,Hamilton,46,55005
-195,Illinois,Jersey,48,55010
-196,Illinois,Jo Daviess,36,59940
-197,Illinois,Kane,46,67922
-198,Illinois,Lake,42,99895
-199,Illinois,Macon,51,60030
-200,Illinois,Macoupin,37,54510
-201,Illinois,Madison,55,60115
-202,Illinois,McHenry,49,69641
-203,Illinois,McLean,50,61174
-204,Illinois,Peoria,48,62066
-205,Illinois,Randolph,46,48860
-206,Illinois,Rock Island,51,52525
-207,Illinois,Sangamon,51,60497
-208,Indiana,Allen,42,60607
-209,Indiana,Bartholomew,46,65564
-210,Indiana,Boone,37,97028
-211,Indiana,Brown,37,61898
-212,Indiana,Carroll,36,53144
-213,Indiana,Clark,52,56729
-214,Indiana,Monroe,40,54716
-215,Indiana,Perry,38,56411
-216,Iowa,Black Hawk,53,55529
-217,Iowa,Bremer,42,61420
-218,Iowa,Cerro Gordo,19,79493
-219,Iowa,Clinton,54,53442
-220,Iowa,Johnson,53,63487
-221,Iowa,Lee,47,52269
-222,Iowa,Linn,54,63407
-223,Iowa,Montgomery,44,50995
-224,Iowa,Muscatine,49,57595
-225,Iowa,Palo Alto,46,59206
-226,Iowa,Polk,52,66761
-227,Iowa,Polk,52,57391
-228,Iowa,Pottawattamie,49,58306
-229,Iowa,Scott,53,66748
-230,Iowa,Van Buren,46,48677
-231,Kansas,Chase,29,66523
-232,Kansas,Ford,15,48219
-233,Kansas,Johnson,49,102693
-234,Kansas,Leavenworth,37,53757
-235,Kansas,Neosho,54,50698
-236,Kansas,Sedgwick,48,61462
-237,Kansas,Shawnee,48,58412
-238,Kansas,Sherman,19,57304
-239,Kansas,Sumner,51,51274
-240,Kansas,Trego,47,70367
-241,Kentucky,Bell,49,42353
-242,Kentucky,Boone,44,62066
-243,Kentucky,Boyd,46,49074
-244,Kentucky,Bullitt,44,54121
-245,Kentucky,Campbell,44,66222
-246,Kentucky,Carter,40,40853
-247,Kentucky,Christian,47,46804
-248,Kentucky,Daviess,51,52446
-249,Kentucky,Edmonson,39,41551
-250,Kentucky,Fayette,45,65766
-251,Kentucky,Greenup,39,50917
-252,Kentucky,Hancock,42,64129
-253,Kentucky,Hardin,45,56117
-254,Kentucky,Jefferson,55,67663
-255,Kentucky,Jessamine,43,61703
-256,Kentucky,Livingston,42,49169
-257,Kentucky,McCracken,47,64990
-258,Kentucky,Morgan,38,34380
-259,Louisiana,Ascension,34,63811
-260,Louisiana,Bossier,53,56326
-261,Louisiana,Caddo,38,64383
-262,Louisiana,Calcasieu,54,54129
-263,Louisiana,East Baton Rouge,52,66726
-264,Louisiana,Iberville,44,55730
-265,Louisiana,Jefferson,51,63448
-266,Louisiana,Lafayette,47,66179
-267,Louisiana,Lafourche,53,57643
-268,Louisiana,Livingston,54,52193
-269,Louisiana,Orleans,41,67403
-270,Louisiana,Ouachita,38,49818
-271,Louisiana,Pointe Coupee,36,60708
-272,Louisiana,Rapides,43,56169
-273,Louisiana,St. Bernard,52,43959
-274,Louisiana,St. James,33,70185
-275,Louisiana,St. John the Baptist,35,47598
-276,Louisiana,St. Martin,37,48737
-277,Louisiana,St. Tammany,42,78246
-278,Louisiana,Tangipahoa,43,50875
-279,Louisiana,Terrebonne,43,53834
-280,Maine,Androscoggin,35,53731
-281,Maine,Aroostook,37,53650
-282,Maine,Cumberland,40,84606
-283,Maine,Hancock,38,68181
-284,Maine,Kennebec,37,58278
-285,Maine,Knox,33,67794
-286,Maine,Oxford,38,50165
-287,Maine,Penobscot,35,53978
-288,Maine,Sagadahoc,39,67538
-289,Maryland,Anne Arundel,40,84019
-290,Maryland,Baltimore,45,74738
-291,Maryland,Calvert,42,76018
-292,Maryland,Carroll,44,74895
-293,Maryland,Cecil,42,59373
-294,Maryland,Charles,42,66642
-295,Maryland,Dorchester,44,57060
-296,Maryland,Frederick,44,76664
-297,Maryland,Garrett,40,57525
-298,Maryland,Harford,45,71196
-299,Maryland,Howard,38,95529
-300,Maryland,Kent,41,77025
-301,Maryland,Montgomery,42,100044
-302,Maryland,Prince George's,44,57096
-303,Massachusetts,Barnstable,37,92417
-304,Massachusetts,Berkshire,41,70945
-305,Massachusetts,Bristol,42,67109
-306,Massachusetts,Dukes,38,98605
-307,Massachusetts,Essex,44,84017
-308,Massachusetts,Franklin,43,67327
-309,Massachusetts,Hampden,46,64105
-310,Massachusetts,Hampshire,38,63544
-311,Massachusetts,Middlesex,39,108773
-312,Massachusetts,Norfolk,41,115585
-313,Massachusetts,Plymouth,40,84693
-314,Massachusetts,Suffolk,44,107027
-315,Massachusetts,Worcester,39,69301
-316,Michigan,Allegan,42,58048
-317,Michigan,Bay,42,52579
-318,Michigan,Benzie,38,60458
-319,Michigan,Berrien,42,61127
-320,Michigan,Cass,42,57612
-321,Michigan,Clinton,38,60589
-322,Michigan,Genesee,44,52520
-323,Michigan,Huron,39,61320
-324,Michigan,Ingham,43,52560
-325,Michigan,Kalamazoo,53,63668
-326,Michigan,Kent,49,70662
-327,Michigan,Keweenaw,16,60716
-328,Michigan,Lenawee,50,51391
-329,Michigan,Macomb,51,58565
-330,Michigan,Manistee,39,48967
-331,Michigan,Mason,40,50216
-332,Michigan,Missaukee,48,45640
-333,Michigan,Monroe,25,59956
-334,Michigan,Muskegon,41,49244
-335,Michigan,Oakland,41,90781
-336,Michigan,Ottawa,51,63265
-337,Michigan,Schoolcraft,36,48919
-338,Michigan,St. Clair,49,55834
-339,Michigan,Tuscola,34,47501
-340,Michigan,Washtenaw,52,77537
-341,Michigan,Wayne,61,52727
-342,Michigan,Wexford,35,45996
-343,Minnesota,Anoka,46,62935
-344,Minnesota,Becker,44,60360
-345,Minnesota,Beltrami,27,53382
-346,Minnesota,Carlton,38,52392
-347,Minnesota,Cass,32,57880
-348,Minnesota,Cook,13,65513
-349,Minnesota,Crow Wing,43,56919
-350,Minnesota,Dakota,49,75019
-351,Minnesota,Goodhue,43,65921
-352,Minnesota,Hennepin,52,95574
-353,Minnesota,Lake,36,57668
-354,Minnesota,Lyon,46,61228
-355,Minnesota,Mille Lacs,40,53553
-356,Minnesota,Olmsted,49,71904
-357,Minnesota,Ramsey,49,69310
-358,Minnesota,Scott,51,81213
-359,Minnesota,Stearns,48,63053
-360,Mississippi,Bolivar,52,51015
-361,Mississippi,DeSoto,54,56470
-362,Mississippi,Forrest,53,45405
-363,Mississippi,Hancock,50,48425
-364,Mississippi,Harrison,51,48902
-365,Mississippi,Hinds,54,51350
-366,Mississippi,Jackson,51,48028
-367,Mississippi,Lauderdale,38,50952
-368,Mississippi,Lee,42,54255
-369,Missouri,Andrew,43,54504
-370,Missouri,Boone,42,60158
-371,Missouri,Buchanan,48,51741
-372,Missouri,Callaway,43,50652
-373,Missouri,Cass,44,59720
-374,Missouri,Cedar,44,40183
-375,Missouri,Clay,43,60043
-376,Missouri,Clinton,44,52880
-377,Missouri,Greene,49,56350
-378,Missouri,Jackson,52,57518
-379,Missouri,Jasper,42,47246
-380,Missouri,Jefferson,44,55195
-381,Missouri,Lincoln,44,53300
-382,Montana,Beaverhead,13,59595
-383,Montana,Cascade,50,60126
-384,Montana,Custer,39,55578
-385,Montana,Fergus,41,54647
-386,Montana,Flathead,43,68725
-387,Montana,Gallatin,26,87254
-388,Montana,Glacier,12,48573
-389,Montana,Hill,23,55344
-390,Montana,Lake,13,49027
-391,Montana,Lewis and Clark,45,62214
-392,Montana,Lincoln,53,47487
-393,Montana,Missoula,53,68344
-394,Montana,Phillips,38,45314
-395,Montana,Powder River,44,46200
-396,Montana,Powell,14,53396
-397,Montana,Ravalli,22,63195
-398,Montana,Richland,39,72410
-399,Montana,Roosevelt,13,45113
-400,Montana,Rosebud,3,55754
-401,Montana,Sanders,37,45599
-402,Montana,Sheridan,18,55175
-403,Montana,Silver Bow,31,60001
-404,Montana,Yellowstone,29,68959
-405,Nebraska,Cass,17,67310
-406,Nebraska,Douglas,45,81570
-407,Nebraska,Gage,34,80101
-408,Nebraska,Hall,35,59802
-409,Nebraska,Knox,41,66048
-410,Nebraska,Lancaster,42,66280
-411,Nebraska,Sarpy,37,66625
-412,Nebraska,Scotts Bluff,21,57327
-413,Nevada,Carson City,47,63498
-414,Nevada,Churchill,43,56685
-415,Nevada,Clark,61,63767
-416,Nevada,Douglas,28,100931
-417,Nevada,Elko,31,56996
-418,Nevada,Lyon,41,50379
-419,Nevada,Nye,19,44626
-420,Nevada,Washoe,50,81371
-421,Nevada,White Pine,44,63243
-422,New Hampshire,Belknap,35,79465
-423,New Hampshire,Cheshire,41,67094
-424,New Hampshire,Coos,43,55665
-425,New Hampshire,Grafton,37,79934
-426,New Hampshire,Hillsborough,39,76187
-427,New Hampshire,Merrimack,39,73531
-428,New Hampshire,Rockingham,40,97082
-429,New Jersey,Atlantic,38,60493
-430,New Jersey,Bergen,48,102229
-431,New Jersey,Camden,50,64987
-432,New Jersey,Cumberland,43,49367
-433,New Jersey,Gloucester,43,66061
-434,New Jersey,Hudson,44,79982
-435,New Jersey,Hunterdon,44,105801
-436,New Jersey,Mercer,49,84392
-437,New Jersey,Middlesex,44,75352
-438,New Jersey,Monmouth,39,100477
-439,New Jersey,Morris,37,115850
-440,New Jersey,Ocean,42,62195
-441,New Jersey,Passaic,42,60002
-442,New Jersey,Union,52,82502
-443,New Jersey,Warren,41,66483
-444,New Mexico,Bernalillo,59,58895
-445,New Mexico,Catron,13,41950
-446,New Mexico,Chaves,24,52720
-447,New Mexico,Eddy,49,76555
-448,New Mexico,Lea,45,58422
-449,New Mexico,Lincoln,14,54474
-450,New Mexico,Los Alamos,14,91773
-451,New Mexico,Luna,16,40299
-452,New Mexico,Rio Arriba,43,45521
-453,New Mexico,San Juan,46,46055
-454,New Mexico,Sandoval,44,56559
-455,New Mexico,Santa Fe,44,77717
-456,New Mexico,Socorro,14,45149
-457,New Mexico,Taos,20,49430
-458,New Mexico,Valencia,42,46944
-459,New York,Albany,42,78464
-460,New York,Bronx,47,44736
-461,New York,Chautauqua,37,49640
-462,New York,New York,48,214991
-463,New York,Niagara,33,56135
-464,New York,Oneida,32,56075
-465,New York,Onondaga,40,63854
-466,New York,Orange,34,60539
-467,New York,Oswego,33,49548
-468,New York,Putnam,32,84598
-469,New York,Queens,50,60271
-470,New York,Richmond,42,66807
-471,New York,Rockland,38,71330
-472,New York,Saratoga,31,81008
-473,New York,Steuben,40,56349
-474,New York,Suffolk,41,88816
-475,New York,Tompkins,35,54159
-476,North Carolina,Alexander,38,49694
-477,North Carolina,Avery,39,50256
-478,North Carolina,Buncombe,43,66288
-479,North Carolina,Caldwell,40,47398
-480,North Carolina,Carteret,38,68500
-481,North Carolina,Caswell,36,43437
-482,North Carolina,Catawba,43,57624
-483,North Carolina,Cumberland,48,48345
-484,North Carolina,Davidson,47,51406
-485,North Carolina,Durham,44,64059
-486,North Carolina,Edgecombe,41,47194
-487,North Carolina,Forsyth,52,60481
-488,North Carolina,Graham,46,44387
-489,North Carolina,Granville,43,49896
-490,North Carolina,Guilford,50,59170
-491,North Carolina,Haywood,45,53755
-492,North Carolina,Hyde,26,52292
-493,North Carolina,Johnston,44,52757
-494,North Carolina,Lenoir,39,53456
-495,North Carolina,Lincoln,43,61859
-496,North Carolina,Macon,34,52844
-497,North Carolina,Martin,36,44368
-498,North Carolina,Mecklenburg,51,82500
-499,North Carolina,Mitchell,33,47047
-500,North Carolina,Montgomery,48,48050
-501,North Carolina,New Hanover,44,64831
-502,North Carolina,Northampton,37,49507
-503,North Carolina,Person,41,48911
-504,North Carolina,Pitt,42,56956
-505,North Carolina,Rockingham,43,48622
-506,North Carolina,Rowan,47,49008
-507,North Carolina,Swain,40,55328
-508,North Carolina,Union,43,72553
-509,North Carolina,Wake,49,81322
-510,North Dakota,Billings,39,89603
-511,North Dakota,Burke,44,89281
-512,North Dakota,Burleigh,42,75321
-513,North Dakota,Cass,50,73185
-514,North Dakota,Dunn,41,103731
-515,North Dakota,McKenzie,39,84357
-516,North Dakota,Mercer,41,66823
-517,North Dakota,Oliver,42,55494
-518,North Dakota,Ward,42,66524
-519,Ohio,Allen,44,54010
-520,Ohio,Ashtabula,42,50508
-521,Ohio,Athens,31,42018
-522,Ohio,Belmont,31,51534
-523,Ohio,Butler,56,58192
-524,Ohio,Clark,50,50553
-525,Ohio,Clermont,41,63599
-526,Ohio,Clinton,44,53901
-527,Ohio,Columbiana,11,47871
-528,Ohio,Cuyahoga,57,68360
-529,Ohio,Warren,44,56648
-530,Ohio,Warren,44,48546
-531,Ohio,Wood,40,58971
-532,Oklahoma,Adair,51,42679
-533,Oklahoma,Canadian,45,56000
-534,Oklahoma,Carter,48,53086
-535,Oklahoma,Cleveland,52,54522
-536,Oklahoma,Comanche,46,51375
-537,Oklahoma,Creek,44,50595
-538,Oklahoma,Oklahoma,53,72954
-539,Oklahoma,Osage,43,45299
-540,Oklahoma,Ottawa,54,47987
-541,Oklahoma,Pittsburg,49,45267
-542,Oklahoma,Pontotoc,42,56112
-543,Oklahoma,Sequoyah,46,44534
-544,Oregon,Baker,30,52392
-545,Oregon,Clackamas,34,80269
-546,Oregon,Columbia,29,59020
-547,Oregon,Crook,33,57968
-548,Oregon,Deschutes,28,81025
-549,Oregon,Grant,44,54969
-550,Oregon,Harney,43,53228
-551,Oregon,Jackson,45,62541
-552,Oregon,Jefferson,31,46111
-553,Oregon,Josephine,44,55038
-554,Oregon,Klamath,39,51246
-555,Oregon,Lake,28,50163
-556,Oregon,Lane,49,61634
-557,Oregon,Linn,34,57016
-558,Oregon,Marion,38,58470
-559,Oregon,Multnomah,38,75772
-560,Oregon,Umatilla,42,53253
-561,Oregon,Union,26,53469
-562,Oregon,Wallowa,25,59576
-563,Oregon,Wasco,27,56865
-564,Pennsylvania,Adams,50,58880
-565,Pennsylvania,Allegheny,56,75468
-566,Pennsylvania,Armstrong,44,58854
-567,Pennsylvania,Beaver,52,58206
-568,Pennsylvania,Berks,48,61575
-569,Pennsylvania,Blair,43,57782
-570,Pennsylvania,Bradford,40,50930
-571,Pennsylvania,Bucks,39,92846
-572,Pennsylvania,Cambria,46,50932
-573,Pennsylvania,Centre,45,57800
-574,Pennsylvania,Chester,45,108215
-575,Pennsylvania,Cumberland,44,68998
-576,Pennsylvania,Dauphin,52,60670
-577,Rhode Island,Kent,40,72004
-578,Rhode Island,Providence,46,58572
-579,South Carolina,Aiken,39,53883
-580,South Carolina,Anderson,42,50288
-581,South Carolina,Berkeley,36,55131
-582,South Carolina,Charleston,47,83294
-583,South Carolina,Chesterfield,42,40396
-584,South Carolina,Darlington,40,49772
-585,South Carolina,Edgefield,44,50938
-586,South Carolina,Florence,49,54943
-587,South Carolina,Greenville,52,60866
-588,South Carolina,Horry,43,51033
-589,South Carolina,Lexington,41,60682
-590,South Carolina,Richland,47,57160
-591,South Carolina,Spartanburg,51,53700
-592,South Carolina,York,47,62604
-593,South Dakota,Brookings,42,62408
-594,South Dakota,Brown,29,75470
-595,South Dakota,Clay,43,49412
-596,South Dakota,Codington,45,67768
-597,South Dakota,Custer,43,68449
-598,South Dakota,Hughes,14,67656
-599,South Dakota,Jackson,43,45622
-600,South Dakota,Meade,43,57635
-601,South Dakota,Minnehaha,44,74873
-602,South Dakota,Pennington,45,73485
-603,Tennessee,Anderson,41,56260
-604,Tennessee,Blount,46,58447
-605,Tennessee,Claiborne,38,44367
-606,Tennessee,Davidson,53,92496
-607,Tennessee,DeKalb,37,50940
-608,Tennessee,Dyer,39,53828
-609,Tennessee,Hamilton,51,65525
-610,Tennessee,Jefferson,42,48184
-611,Tennessee,Knox,52,67323
-612,Tennessee,Lawrence,41,43273
-613,Tennessee,Loudon,42,70063
-614,Tennessee,Madison,43,55537
-615,Tennessee,Maury,36,57191
-616,Tennessee,McMinn,39,45629
-617,Tennessee,Montgomery,36,52478
-618,Tennessee,Putnam,38,51132
-619,Tennessee,Roane,36,53353
-620,Tennessee,Sevier,45,57533
-621,Tennessee,Shelby,52,61979
-622,Tennessee,Sullivan,42,54453
-623,Tennessee,Sumner,45,67865
-624,Texas,Atascosa,42,48387
-625,Texas,Bell,44,51898
-626,Texas,Bexar,52,57096
-627,Texas,Bowie,53,51132
-628,Texas,Brazoria,36,60088
-629,Texas,Brazos,39,50236
-630,Texas,Brewster,43,58475
-631,Texas,Cameron,54,38523
-632,Texas,Collin,41,86860
-633,Utah,Box Elder,38,50990
-634,Utah,Cache,48,50603
-635,Utah,Carbon,42,49335
-636,Utah,Davis,47,62449
-637,Utah,Duchesne,51,51352
-638,Utah,Garfield,10,53930
-639,Utah,Grand,49,77028
-640,Utah,Iron,42,42301
-641,Utah,Salt Lake,54,71787
-642,Utah,San Juan,45,38753
-643,Utah,Tooele,45,50274
-644,Utah,Uintah,50,41619
-645,Utah,Utah,48,57619
-646,Vermont,Bennington,38,65638
-647,Vermont,Chittenden,42,76222
-648,Vermont,Rutland,38,61702
-649,Virginia,Arlington,38,124345
-650,Virginia,Caroline,40,54299
-651,Virginia,Chesterfield,41,66800
-652,Virginia,Fauquier,39,86886
-653,Virginia,Giles,39,53100
-654,Virginia,Hanover,40,77005
-655,Virginia,Henrico,46,77783
-656,Virginia,Loudoun,39,102229
-657,Virginia,Madison,42,60259
-658,Virginia,Prince Edward,34,42333
-659,Virginia,Roanoke,43,56075
-660,Virginia,Stafford,37,68098
-661,Virginia,Wythe,40,47343
-662,Washington,Adams,21,52466
-663,Washington,Asotin,49,57199
-664,Washington,Benton,41,56969
-665,Washington,Chelan,34,68356
-666,Washington,Clallam,37,60321
-667,Washington,Clark,35,69318
-668,Washington,Columbia,39,62070
-669,Washington,Cowlitz,22,57947
-670,Washington,Franklin,26,48029
-671,Washington,Garfield,17,57405
-672,Washington,Grant,32,49727
-673,Washington,Grays Harbor,23,49968
-674,Washington,Jefferson,21,68457
-675,Washington,King,46,122235
-676,Washington,Kitsap,22,73841
-677,Washington,Kittitas,29,60053
-678,Washington,Klickitat,20,57126
-679,Washington,Lewis,25,59759
-680,Washington,Mason,24,54701
-681,Washington,Okanogan,49,52446
-682,Washington,Pacific,20,50282
-683,Washington,Pierce,42,65188
-684,Washington,Skagit,30,67173
-685,Washington,Snohomish,38,75320
-686,Washington,Spokane,42,58630
-687,Washington,Stevens,46,49484
-688,Washington,Thurston,28,65892
-689,Washington,Walla Walla,28,56420
-690,Washington,Whatcom,31,62095
-691,Washington,Whitman,26,48522
-692,Washington,Yakima,46,51488
-693,West Virginia,Berkeley,44,54940
-694,West Virginia,Brooke,19,53325
-695,West Virginia,Cabell,44,54209
-696,West Virginia,Greenbrier,38,50142
-697,West Virginia,Hancock,36,53854
-698,West Virginia,Harrison,39,63351
-699,West Virginia,Kanawha,42,61400
-700,West Virginia,Marion,39,51911
-701,West Virginia,Marshall,52,51767
-702,West Virginia,Monongalia,42,58418
-703,Wisconsin,Ashland,40,49350
-704,Wisconsin,Brown,44,65199
-705,Wisconsin,Columbia,44,67169
-706,Wisconsin,Dane,50,77996
-707,Wisconsin,Dodge,46,55856
-708,Wisconsin,Door,41,78073
-709,Wisconsin,Eau Claire,46,60575
-710,Wisconsin,Fond du Lac,41,60018
-711,Wisconsin,Forest,42,49367
-712,Wisconsin,Grant,48,53781
-713,Wyoming,Albany,48,54052
-714,Wyoming,Big Horn,39,50641
-715,Wyoming,Campbell,45,62147
-716,Wyoming,Carbon,8,68521
-717,Wyoming,Converse,42,70943
-718,Wyoming,Fremont,49,56891
-719,Wyoming,Johnson,40,70887
-720,Wyoming,Laramie,45,65150
-721,Wyoming,Lincoln,44,73432
-722,Wyoming,Natrona,42,79846
-723,Wyoming,Park,14,77015
-724,Wyoming,Platte,14,59292
-725,Wyoming,Sheridan,43,73622
-726,Wyoming,Sublette,47,70620
-727,Wyoming,Sweetwater,47,64115
-728,Wyoming,Teton,43,471751
-729,Wyoming,Uinta,6,49350
-730,Wyoming,Weston,42,54380
+28,Arkansas,Ashley,43,46686
+29,Arkansas,Clark,35,44397
+30,Arkansas,Crittenden,41,47271
+31,Arkansas,Garland,47,52506
+32,Arkansas,Jackson,44,49638
+33,California,Alameda,48,106657
+34,California,Amador,36,50020
+35,California,Butte,50,56847
+36,California,Calaveras,40,58425
+37,California,Colusa,55,58303
+38,California,Contra Costa,52,103218
+39,California,Del Norte,32,47141
+40,California,El Dorado,44,84533
+41,California,Fresno,64,52728
+42,California,Glenn,41,53013
+43,California,Humboldt,32,57264
+44,California,Imperial,61,47991
+45,California,Inyo,61,64246
+46,California,Kern,69,47350
+47,California,Kings,58,43994
+48,California,Lake,32,48198
+49,California,Los Angeles,67,78302
+50,California,Madera,52,46709
+51,California,Marin,34,180575
+52,California,Mariposa,47,65423
+53,California,Mendocino,53,59050
+54,California,Merced,51,46654
+55,California,Mono,24,70699
+56,California,Monterey,42,68943
+57,Colorado,Adams,51,58851
+58,Colorado,Alamosa,22,44666
+59,Colorado,Arapahoe,47,81414
+60,Colorado,Archuleta,35,58325
+61,Colorado,Boulder,50,100242
+62,Colorado,Chaffee,58,66503
+63,Colorado,Clear Creek,49,78739
+64,Colorado,Denver,54,116530
+65,Colorado,Douglas,49,102928
+66,Colorado,El Paso,47,65715
+67,Colorado,El Paso,47,46753
+68,Colorado,Fremont,12,43608
+69,Colorado,Garfield,54,71629
+70,Colorado,Gilpin,47,69394
+71,Colorado,Grand,46,73848
+72,Colorado,Gunnison,46,70391
+73,Colorado,Jackson,45,68367
+74,Colorado,Jackson,45,54702
+75,Colorado,Jefferson,49,85164
+76,Colorado,Jefferson,49,50131
+77,Colorado,La Plata,46,76558
+78,Colorado,Larimer,51,71359
+79,Colorado,Mesa,46,57653
+80,Colorado,Montezuma,44,53105
+81,Colorado,Park,50,61974
+82,Colorado,Pitkin,13,255839
+83,Colorado,Prowers,19,49097
+84,Colorado,Pueblo,43,48891
+85,Colorado,Rio Blanco,47,63017
+86,Colorado,Routt,13,131507
+87,Colorado,San Juan,9,55971
+88,Colorado,San Miguel,47,156403
+89,Connecticut,Fairfield,46,139006
+90,Connecticut,Hartford,43,75433
+91,Connecticut,Litchfield,38,82210
+92,Connecticut,Middlesex,43,80853
+93,Connecticut,New Haven,47,68387
+94,Connecticut,New London,41,69755
+95,Connecticut,Tolland,41,67916
+96,Connecticut,Windham,34,56773
+97,Delaware,Kent,46,52494
+98,Delaware,New Castle,52,70792
+99,Delaware,Sussex,47,68532
+100,Florida,Alachua,40,55872
+101,Florida,Baker,43,46794
+102,Florida,Bay,51,56070
+103,Florida,Brevard,43,60162
+104,Florida,Broward,52,70982
+105,Florida,Citrus,45,47178
+106,Florida,Collier,43,134527
+107,Florida,Columbia,47,45995
+108,Florida,Duval,52,58975
+109,Florida,Escambia,51,55416
+110,Florida,Flagler,35,63819
+111,Florida,Hamilton,46,37368
+112,Florida,Highlands,35,44177
+113,Florida,Hillsborough,51,63640
+114,Florida,Holmes,49,41258
+115,Florida,Indian River,34,105827
+116,Florida,Lake,37,55387
+117,Florida,Lee,35,65878
+118,Florida,Leon,47,57139
+119,Florida,Liberty,33,35661
+120,Florida,Manatee,35,64096
+121,Florida,Marion,45,46682
+122,Florida,Martin,41,114799
+123,Florida,Miami-Dade,48,75182
+124,Florida,Okaloosa,37,62236
+125,Florida,Orange,43,59767
+126,Florida,Osceola,36,47824
+127,Florida,Palm Beach,43,117322
+128,Florida,Pasco,39,56734
+129,Florida,Pinellas,47,71904
+130,Florida,Polk,42,44430
+131,Florida,Putnam,17,41712
+132,Florida,Santa Rosa,47,59385
+133,Florida,Sarasota,47,85157
+134,Florida,Seminole,40,62804
+135,Florida,St. Lucie,35,54842
+136,Florida,Volusia,44,55824
+137,Florida,Wakulla,39,52124
+138,Georgia,Bibb,53,48455
+139,Georgia,Charlton,27,32717
+140,Georgia,Chatham,48,59376
+141,Georgia,Chattooga,38,38269
+142,Georgia,Clarke,52,43899
+143,Georgia,Clayton,51,34871
+144,Georgia,Cobb,43,75176
+145,Georgia,Coffee,41,40334
+146,Georgia,Columbia,36,61147
+147,Georgia,Dawson,38,63599
+148,Georgia,DeKalb,53,67811
+149,Georgia,Dougherty,51,47803
+150,Georgia,Douglas,41,45636
+151,Georgia,Floyd,46,46727
+152,Georgia,Fulton,53,106131
+153,Georgia,Glynn,43,62751
+154,Georgia,Gwinnett,50,54331
+155,Georgia,Hall,52,60036
+156,Georgia,Henry,44,49576
+157,Georgia,Houston,49,50250
+158,Georgia,Lowndes,48,45758
+159,Georgia,Murray,41,38846
+160,Georgia,Muscogee,52,51442
+161,Georgia,Pike,39,52786
+162,Georgia,Richmond,51,45441
+163,Georgia,Rockdale,40,43568
+164,Georgia,Sumter,38,45394
+165,Georgia,Walker,53,44195
+166,Hawaii,Honolulu,31,69893
+167,Idaho,Ada,44,72588
+168,Idaho,Bannock,41,50084
+169,Idaho,Benewah,48,45633
+170,Idaho,Blaine,19,187239
+171,Idaho,Boise,39,54614
+172,Idaho,Bonner,34,55464
+173,Idaho,Bonneville,25,60032
+174,Idaho,Butte,44,51958
+175,Idaho,Canyon,34,47903
+176,Idaho,Custer,8,52420
+177,Idaho,Franklin,24,45872
+178,Idaho,Kootenai,32,63893
+179,Idaho,Latah,22,54794
+180,Idaho,Lemhi,32,53841
+181,Idaho,Nez Perce,36,56586
+182,Idaho,Shoshone,47,45440
+183,Idaho,Twin Falls,25,52087
+184,Idaho,Valley,36,66382
+185,Illinois,Adams,43,59776
+186,Illinois,Champaign,48,58838
+187,Illinois,Clark,36,53733
+188,Illinois,Cook,57,77937
+189,Illinois,DuPage,53,95811
+190,Illinois,Effingham,44,67028
+191,Illinois,Hamilton,46,55005
+192,Illinois,Jersey,48,55010
+193,Illinois,Jo Daviess,36,59940
+194,Illinois,Kane,46,67922
+195,Illinois,Lake,42,99895
+196,Illinois,Macon,51,60030
+197,Illinois,Macoupin,37,54510
+198,Illinois,Madison,55,60115
+199,Illinois,McHenry,49,69641
+200,Illinois,McLean,50,61174
+201,Illinois,Peoria,48,62066
+202,Illinois,Randolph,46,48860
+203,Illinois,Rock Island,51,52525
+204,Illinois,Sangamon,51,60497
+205,Indiana,Allen,42,60607
+206,Indiana,Bartholomew,46,65564
+207,Indiana,Boone,37,97028
+208,Indiana,Brown,37,61898
+209,Indiana,Carroll,36,53144
+210,Indiana,Clark,52,56729
+211,Indiana,Monroe,40,54716
+212,Indiana,Perry,38,56411
+213,Iowa,Black Hawk,53,55529
+214,Iowa,Bremer,42,61420
+215,Iowa,Cerro Gordo,19,79493
+216,Iowa,Clinton,54,53442
+217,Iowa,Johnson,53,63487
+218,Iowa,Lee,47,52269
+219,Iowa,Linn,54,63407
+220,Iowa,Montgomery,44,50995
+221,Iowa,Muscatine,49,57595
+222,Iowa,Palo Alto,46,59206
+223,Iowa,Polk,52,66761
+224,Iowa,Polk,52,57391
+225,Iowa,Pottawattamie,49,58306
+226,Iowa,Scott,53,66748
+227,Iowa,Van Buren,46,48677
+228,Kansas,Chase,29,66523
+229,Kansas,Ford,15,48219
+230,Kansas,Johnson,49,102693
+231,Kansas,Leavenworth,37,53757
+232,Kansas,Neosho,54,50698
+233,Kansas,Sedgwick,48,61462
+234,Kansas,Shawnee,48,58412
+235,Kansas,Sherman,19,57304
+236,Kansas,Sumner,51,51274
+237,Kansas,Trego,47,70367
+238,Kentucky,Bell,49,42353
+239,Kentucky,Boone,44,62066
+240,Kentucky,Boyd,46,49074
+241,Kentucky,Bullitt,44,54121
+242,Kentucky,Campbell,44,66222
+243,Kentucky,Carter,40,40853
+244,Kentucky,Christian,47,46804
+245,Kentucky,Daviess,51,52446
+246,Kentucky,Edmonson,39,41551
+247,Kentucky,Fayette,45,65766
+248,Kentucky,Greenup,39,50917
+249,Kentucky,Hancock,42,64129
+250,Kentucky,Hardin,45,56117
+251,Kentucky,Jefferson,55,67663
+252,Kentucky,Jessamine,43,61703
+253,Kentucky,Livingston,42,49169
+254,Kentucky,McCracken,47,64990
+255,Kentucky,Morgan,38,34380
+256,Louisiana,Ascension,34,63811
+257,Louisiana,Bossier,53,56326
+258,Louisiana,Caddo,38,64383
+259,Louisiana,Calcasieu,54,54129
+260,Louisiana,East Baton Rouge,52,66726
+261,Louisiana,Iberville,44,55730
+262,Louisiana,Jefferson,51,63448
+263,Louisiana,Lafayette,47,66179
+264,Louisiana,Lafourche,53,57643
+265,Louisiana,Livingston,54,52193
+266,Louisiana,Orleans,41,67403
+267,Louisiana,Ouachita,38,49818
+268,Louisiana,Pointe Coupee,36,60708
+269,Louisiana,Rapides,43,56169
+270,Louisiana,St. Bernard,52,43959
+271,Louisiana,St. James,33,70185
+272,Louisiana,St. John the Baptist,35,47598
+273,Louisiana,St. Martin,37,48737
+274,Louisiana,St. Tammany,42,78246
+275,Louisiana,Tangipahoa,43,50875
+276,Louisiana,Terrebonne,43,53834
+277,Maine,Androscoggin,35,53731
+278,Maine,Aroostook,37,53650
+279,Maine,Cumberland,40,84606
+280,Maine,Hancock,38,68181
+281,Maine,Kennebec,37,58278
+282,Maine,Knox,33,67794
+283,Maine,Oxford,38,50165
+284,Maine,Penobscot,35,53978
+285,Maine,Sagadahoc,39,67538
+286,Maryland,Anne Arundel,40,84019
+287,Maryland,Baltimore,45,74738
+288,Maryland,Calvert,42,76018
+289,Maryland,Carroll,44,74895
+290,Maryland,Cecil,42,59373
+291,Maryland,Charles,42,66642
+292,Maryland,Dorchester,44,57060
+293,Maryland,Frederick,44,76664
+294,Maryland,Garrett,40,57525
+295,Maryland,Harford,45,71196
+296,Maryland,Howard,38,95529
+297,Maryland,Kent,41,77025
+298,Maryland,Montgomery,42,100044
+299,Maryland,Prince George's,44,57096
+300,Massachusetts,Barnstable,37,92417
+301,Massachusetts,Berkshire,41,70945
+302,Massachusetts,Bristol,42,67109
+303,Massachusetts,Dukes,38,98605
+304,Massachusetts,Essex,44,84017
+305,Massachusetts,Franklin,43,67327
+306,Massachusetts,Hampden,46,64105
+307,Massachusetts,Hampshire,38,63544
+308,Massachusetts,Middlesex,39,108773
+309,Massachusetts,Norfolk,41,115585
+310,Massachusetts,Plymouth,40,84693
+311,Massachusetts,Suffolk,44,107027
+312,Massachusetts,Worcester,39,69301
+313,Michigan,Allegan,42,58048
+314,Michigan,Bay,42,52579
+315,Michigan,Benzie,38,60458
+316,Michigan,Berrien,42,61127
+317,Michigan,Cass,42,57612
+318,Michigan,Clinton,38,60589
+319,Michigan,Genesee,44,52520
+320,Michigan,Huron,39,61320
+321,Michigan,Ingham,43,52560
+322,Michigan,Kalamazoo,53,63668
+323,Michigan,Kent,49,70662
+324,Michigan,Keweenaw,16,60716
+325,Michigan,Lenawee,50,51391
+326,Michigan,Macomb,51,58565
+327,Michigan,Manistee,39,48967
+328,Michigan,Mason,40,50216
+329,Michigan,Missaukee,48,45640
+330,Michigan,Monroe,25,59956
+331,Michigan,Muskegon,41,49244
+332,Michigan,Oakland,41,90781
+333,Michigan,Ottawa,51,63265
+334,Michigan,Schoolcraft,36,48919
+335,Michigan,St. Clair,49,55834
+336,Michigan,Tuscola,34,47501
+337,Michigan,Washtenaw,52,77537
+338,Michigan,Wayne,61,52727
+339,Michigan,Wexford,35,45996
+340,Minnesota,Anoka,46,62935
+341,Minnesota,Becker,44,60360
+342,Minnesota,Beltrami,27,53382
+343,Minnesota,Carlton,38,52392
+344,Minnesota,Cass,32,57880
+345,Minnesota,Cook,13,65513
+346,Minnesota,Crow Wing,43,56919
+347,Minnesota,Dakota,49,75019
+348,Minnesota,Goodhue,43,65921
+349,Minnesota,Hennepin,52,95574
+350,Minnesota,Lake,36,57668
+351,Minnesota,Lyon,46,61228
+352,Minnesota,Mille Lacs,40,53553
+353,Minnesota,Olmsted,49,71904
+354,Minnesota,Ramsey,49,69310
+355,Minnesota,Scott,51,81213
+356,Minnesota,Stearns,48,63053
+357,Mississippi,Bolivar,52,51015
+358,Mississippi,DeSoto,54,56470
+359,Mississippi,Forrest,53,45405
+360,Mississippi,Hancock,50,48425
+361,Mississippi,Harrison,51,48902
+362,Mississippi,Hinds,54,51350
+363,Mississippi,Jackson,51,48028
+364,Mississippi,Lauderdale,38,50952
+365,Mississippi,Lee,42,54255
+366,Missouri,Andrew,43,54504
+367,Missouri,Boone,42,60158
+368,Missouri,Buchanan,48,51741
+369,Missouri,Callaway,43,50652
+370,Missouri,Cass,44,59720
+371,Missouri,Cedar,44,40183
+372,Missouri,Clay,43,60043
+373,Missouri,Clinton,44,52880
+374,Missouri,Greene,49,56350
+375,Missouri,Jackson,52,57518
+376,Missouri,Jasper,42,47246
+377,Missouri,Jefferson,44,55195
+378,Missouri,Lincoln,44,53300
+379,Montana,Beaverhead,13,59595
+380,Montana,Cascade,50,60126
+381,Montana,Custer,39,55578
+382,Montana,Fergus,41,54647
+383,Montana,Flathead,43,68725
+384,Montana,Gallatin,26,87254
+385,Montana,Glacier,12,48573
+386,Montana,Hill,23,55344
+387,Montana,Lake,13,49027
+388,Montana,Lewis and Clark,45,62214
+389,Montana,Lincoln,53,47487
+390,Montana,Missoula,53,68344
+391,Montana,Phillips,38,45314
+392,Montana,Powder River,44,46200
+393,Montana,Powell,14,53396
+394,Montana,Ravalli,22,63195
+395,Montana,Richland,39,72410
+396,Montana,Roosevelt,13,45113
+397,Montana,Rosebud,3,55754
+398,Montana,Sanders,37,45599
+399,Montana,Sheridan,18,55175
+400,Montana,Silver Bow,31,60001
+401,Montana,Yellowstone,29,68959
+402,Nebraska,Cass,17,67310
+403,Nebraska,Douglas,45,81570
+404,Nebraska,Gage,34,80101
+405,Nebraska,Hall,35,59802
+406,Nebraska,Knox,41,66048
+407,Nebraska,Lancaster,42,66280
+408,Nebraska,Sarpy,37,66625
+409,Nebraska,Scotts Bluff,21,57327
+410,Nevada,Carson City,47,63498
+411,Nevada,Churchill,43,56685
+412,Nevada,Clark,61,63767
+413,Nevada,Douglas,28,100931
+414,Nevada,Elko,31,56996
+415,Nevada,Lyon,41,50379
+416,Nevada,Nye,19,44626
+417,Nevada,Washoe,50,81371
+418,Nevada,White Pine,44,63243
+419,New Hampshire,Belknap,35,79465
+420,New Hampshire,Cheshire,41,67094
+421,New Hampshire,Coos,43,55665
+422,New Hampshire,Grafton,37,79934
+423,New Hampshire,Hillsborough,39,76187
+424,New Hampshire,Merrimack,39,73531
+425,New Hampshire,Rockingham,40,97082
+426,New Jersey,Atlantic,38,60493
+427,New Jersey,Bergen,48,102229
+428,New Jersey,Camden,50,64987
+429,New Jersey,Cumberland,43,49367
+430,New Jersey,Gloucester,43,66061
+431,New Jersey,Hudson,44,79982
+432,New Jersey,Hunterdon,44,105801
+433,New Jersey,Mercer,49,84392
+434,New Jersey,Middlesex,44,75352
+435,New Jersey,Monmouth,39,100477
+436,New Jersey,Morris,37,115850
+437,New Jersey,Ocean,42,62195
+438,New Jersey,Passaic,42,60002
+439,New Jersey,Union,52,82502
+440,New Jersey,Warren,41,66483
+441,New Mexico,Bernalillo,59,58895
+442,New Mexico,Catron,13,41950
+443,New Mexico,Chaves,24,52720
+444,New Mexico,Eddy,49,76555
+445,New Mexico,Lea,45,58422
+446,New Mexico,Lincoln,14,54474
+447,New Mexico,Los Alamos,14,91773
+448,New Mexico,Luna,16,40299
+449,New Mexico,Rio Arriba,43,45521
+450,New Mexico,San Juan,46,46055
+451,New Mexico,Sandoval,44,56559
+452,New Mexico,Santa Fe,44,77717
+453,New Mexico,Socorro,14,45149
+454,New Mexico,Taos,20,49430
+455,New Mexico,Valencia,42,46944
+456,New York,Albany,42,78464
+457,New York,Bronx,47,44736
+458,New York,Chautauqua,37,49640
+459,New York,Niagara,33,56135
+460,New York,Oneida,32,56075
+461,New York,Onondaga,40,63854
+462,New York,Orange,34,60539
+463,New York,Oswego,33,49548
+464,New York,Putnam,32,84598
+465,New York,Queens,50,60271
+466,New York,Richmond,42,66807
+467,New York,Rockland,38,71330
+468,New York,Saratoga,31,81008
+469,New York,Steuben,40,56349
+470,New York,Suffolk,41,88816
+471,New York,Tompkins,35,54159
+472,North Carolina,Alexander,38,49694
+473,North Carolina,Avery,39,50256
+474,North Carolina,Buncombe,43,66288
+475,North Carolina,Caldwell,40,47398
+476,North Carolina,Carteret,38,68500
+477,North Carolina,Caswell,36,43437
+478,North Carolina,Catawba,43,57624
+479,North Carolina,Cumberland,48,48345
+480,North Carolina,Davidson,47,51406
+481,North Carolina,Durham,44,64059
+482,North Carolina,Edgecombe,41,47194
+483,North Carolina,Forsyth,52,60481
+484,North Carolina,Graham,46,44387
+485,North Carolina,Granville,43,49896
+486,North Carolina,Guilford,50,59170
+487,North Carolina,Haywood,45,53755
+488,North Carolina,Hyde,26,52292
+489,North Carolina,Johnston,44,52757
+490,North Carolina,Lenoir,39,53456
+491,North Carolina,Lincoln,43,61859
+492,North Carolina,Macon,34,52844
+493,North Carolina,Martin,36,44368
+494,North Carolina,Mecklenburg,51,82500
+495,North Carolina,Mitchell,33,47047
+496,North Carolina,Montgomery,48,48050
+497,North Carolina,New Hanover,44,64831
+498,North Carolina,Northampton,37,49507
+499,North Carolina,Person,41,48911
+500,North Carolina,Pitt,42,56956
+501,North Carolina,Rockingham,43,48622
+502,North Carolina,Rowan,47,49008
+503,North Carolina,Swain,40,55328
+504,North Carolina,Union,43,72553
+505,North Carolina,Wake,49,81322
+506,North Dakota,Billings,39,89603
+507,North Dakota,Burke,44,89281
+508,North Dakota,Burleigh,42,75321
+509,North Dakota,Cass,50,73185
+510,North Dakota,Dunn,41,103731
+511,North Dakota,McKenzie,39,84357
+512,North Dakota,Mercer,41,66823
+513,North Dakota,Oliver,42,55494
+514,North Dakota,Ward,42,66524
+515,Ohio,Allen,44,54010
+516,Ohio,Ashtabula,42,50508
+517,Ohio,Athens,31,42018
+518,Ohio,Belmont,31,51534
+519,Ohio,Butler,56,58192
+520,Ohio,Clark,50,50553
+521,Ohio,Clermont,41,63599
+522,Ohio,Clinton,44,53901
+523,Ohio,Columbiana,11,47871
+524,Ohio,Cuyahoga,57,68360
+525,Ohio,Warren,44,56648
+526,Ohio,Warren,44,48546
+527,Ohio,Wood,40,58971
+528,Oklahoma,Adair,51,42679
+529,Oklahoma,Canadian,45,56000
+530,Oklahoma,Carter,48,53086
+531,Oklahoma,Cleveland,52,54522
+532,Oklahoma,Comanche,46,51375
+533,Oklahoma,Creek,44,50595
+534,Oklahoma,Osage,43,45299
+535,Oklahoma,Ottawa,54,47987
+536,Oklahoma,Pittsburg,49,45267
+537,Oklahoma,Pontotoc,42,56112
+538,Oklahoma,Sequoyah,46,44534
+539,Oregon,Baker,30,52392
+540,Oregon,Clackamas,34,80269
+541,Oregon,Columbia,29,59020
+542,Oregon,Crook,33,57968
+543,Oregon,Deschutes,28,81025
+544,Oregon,Grant,44,54969
+545,Oregon,Harney,43,53228
+546,Oregon,Jackson,45,62541
+547,Oregon,Jefferson,31,46111
+548,Oregon,Josephine,44,55038
+549,Oregon,Klamath,39,51246
+550,Oregon,Lake,28,50163
+551,Oregon,Lane,49,61634
+552,Oregon,Linn,34,57016
+553,Oregon,Marion,38,58470
+554,Oregon,Multnomah,38,75772
+555,Oregon,Umatilla,42,53253
+556,Oregon,Union,26,53469
+557,Oregon,Wallowa,25,59576
+558,Oregon,Wasco,27,56865
+559,Pennsylvania,Adams,50,58880
+560,Pennsylvania,Allegheny,56,75468
+561,Pennsylvania,Armstrong,44,58854
+562,Pennsylvania,Beaver,52,58206
+563,Pennsylvania,Berks,48,61575
+564,Pennsylvania,Blair,43,57782
+565,Pennsylvania,Bradford,40,50930
+566,Pennsylvania,Bucks,39,92846
+567,Pennsylvania,Cambria,46,50932
+568,Pennsylvania,Centre,45,57800
+569,Pennsylvania,Chester,45,108215
+570,Pennsylvania,Cumberland,44,68998
+571,Pennsylvania,Dauphin,52,60670
+572,Rhode Island,Kent,40,72004
+573,Rhode Island,Providence,46,58572
+574,South Carolina,Aiken,39,53883
+575,South Carolina,Anderson,42,50288
+576,South Carolina,Berkeley,36,55131
+577,South Carolina,Charleston,47,83294
+578,South Carolina,Chesterfield,42,40396
+579,South Carolina,Darlington,40,49772
+580,South Carolina,Edgefield,44,50938
+581,South Carolina,Florence,49,54943
+582,South Carolina,Greenville,52,60866
+583,South Carolina,Horry,43,51033
+584,South Carolina,Lexington,41,60682
+585,South Carolina,Richland,47,57160
+586,South Carolina,Spartanburg,51,53700
+587,South Carolina,York,47,62604
+588,South Dakota,Brookings,42,62408
+589,South Dakota,Brown,29,75470
+590,South Dakota,Clay,43,49412
+591,South Dakota,Codington,45,67768
+592,South Dakota,Custer,43,68449
+593,South Dakota,Hughes,14,67656
+594,South Dakota,Jackson,43,45622
+595,South Dakota,Meade,43,57635
+596,South Dakota,Minnehaha,44,74873
+597,South Dakota,Pennington,45,73485
+598,Tennessee,Anderson,41,56260
+599,Tennessee,Blount,46,58447
+600,Tennessee,Claiborne,38,44367
+601,Tennessee,Davidson,53,92496
+602,Tennessee,DeKalb,37,50940
+603,Tennessee,Dyer,39,53828
+604,Tennessee,Hamilton,51,65525
+605,Tennessee,Jefferson,42,48184
+606,Tennessee,Knox,52,67323
+607,Tennessee,Lawrence,41,43273
+608,Tennessee,Loudon,42,70063
+609,Tennessee,Madison,43,55537
+610,Tennessee,Maury,36,57191
+611,Tennessee,McMinn,39,45629
+612,Tennessee,Montgomery,36,52478
+613,Tennessee,Putnam,38,51132
+614,Tennessee,Roane,36,53353
+615,Tennessee,Sevier,45,57533
+616,Tennessee,Shelby,52,61979
+617,Tennessee,Sullivan,42,54453
+618,Tennessee,Sumner,45,67865
+619,Texas,Atascosa,42,48387
+620,Texas,Bell,44,51898
+621,Texas,Bexar,52,57096
+622,Texas,Bowie,53,51132
+623,Texas,Brazoria,36,60088
+624,Texas,Brazos,39,50236
+625,Texas,Brewster,43,58475
+626,Texas,Cameron,54,38523
+627,Texas,Collin,41,86860
+628,Utah,Box Elder,38,50990
+629,Utah,Cache,48,50603
+630,Utah,Carbon,42,49335
+631,Utah,Davis,47,62449
+632,Utah,Duchesne,51,51352
+633,Utah,Garfield,10,53930
+634,Utah,Grand,49,77028
+635,Utah,Iron,42,42301
+636,Utah,Salt Lake,54,71787
+637,Utah,San Juan,45,38753
+638,Utah,Tooele,45,50274
+639,Utah,Uintah,50,41619
+640,Vermont,Bennington,38,65638
+641,Vermont,Chittenden,42,76222
+642,Vermont,Rutland,38,61702
+643,Virginia,Arlington,38,124345
+644,Virginia,Caroline,40,54299
+645,Virginia,Chesterfield,41,66800
+646,Virginia,Fauquier,39,86886
+647,Virginia,Giles,39,53100
+648,Virginia,Hanover,40,77005
+649,Virginia,Henrico,46,77783
+650,Virginia,Loudoun,39,102229
+651,Virginia,Madison,42,60259
+652,Virginia,Prince Edward,34,42333
+653,Virginia,Roanoke,43,56075
+654,Virginia,Stafford,37,68098
+655,Virginia,Wythe,40,47343
+656,Washington,Adams,21,52466
+657,Washington,Asotin,49,57199
+658,Washington,Benton,41,56969
+659,Washington,Chelan,34,68356
+660,Washington,Clallam,37,60321
+661,Washington,Clark,35,69318
+662,Washington,Columbia,39,62070
+663,Washington,Cowlitz,22,57947
+664,Washington,Franklin,26,48029
+665,Washington,Garfield,17,57405
+666,Washington,Grant,32,49727
+667,Washington,Grays Harbor,23,49968
+668,Washington,Jefferson,21,68457
+669,Washington,King,46,122235
+670,Washington,Kitsap,22,73841
+671,Washington,Kittitas,29,60053
+672,Washington,Klickitat,20,57126
+673,Washington,Lewis,25,59759
+674,Washington,Mason,24,54701
+675,Washington,Okanogan,49,52446
+676,Washington,Pacific,20,50282
+677,Washington,Pierce,42,65188
+678,Washington,Skagit,30,67173
+679,Washington,Snohomish,38,75320
+680,Washington,Spokane,42,58630
+681,Washington,Stevens,46,49484
+682,Washington,Thurston,28,65892
+683,Washington,Walla Walla,28,56420
+684,Washington,Whatcom,31,62095
+685,Washington,Whitman,26,48522
+686,Washington,Yakima,46,51488
+687,West Virginia,Berkeley,44,54940
+688,West Virginia,Brooke,19,53325
+689,West Virginia,Cabell,44,54209
+690,West Virginia,Greenbrier,38,50142
+691,West Virginia,Hancock,36,53854
+692,West Virginia,Harrison,39,63351
+693,West Virginia,Kanawha,42,61400
+694,West Virginia,Marion,39,51911
+695,West Virginia,Marshall,52,51767
+696,West Virginia,Monongalia,42,58418
+697,Wisconsin,Ashland,40,49350
+698,Wisconsin,Brown,44,65199
+699,Wisconsin,Columbia,44,67169
+700,Wisconsin,Dane,50,77996
+701,Wisconsin,Dodge,46,55856
+702,Wisconsin,Door,41,78073
+703,Wisconsin,Eau Claire,46,60575
+704,Wisconsin,Fond du Lac,41,60018
+705,Wisconsin,Forest,42,49367
+706,Wisconsin,Grant,48,53781
+707,Wyoming,Albany,48,54052
+708,Wyoming,Big Horn,39,50641
+709,Wyoming,Campbell,45,62147
+710,Wyoming,Carbon,8,68521
+711,Wyoming,Converse,42,70943
+712,Wyoming,Fremont,49,56891
+713,Wyoming,Johnson,40,70887
+714,Wyoming,Laramie,45,65150
+715,Wyoming,Lincoln,44,73432
+716,Wyoming,Natrona,42,79846
+717,Wyoming,Park,14,77015
+718,Wyoming,Platte,14,59292
+719,Wyoming,Sheridan,43,73622
+720,Wyoming,Sublette,47,70620
+721,Wyoming,Sweetwater,47,64115
+722,Wyoming,Teton,43,471751
+723,Wyoming,Uinta,6,49350
+724,Wyoming,Weston,42,54380
